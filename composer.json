@@ -1,0 +1,14 @@
+{
+    "name": "serg/database",
+    "autoload": {
+        "psr-4": {
+            "Serg\\Database\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Serg"
+        }
+    ],
+    "require": {}
+}
