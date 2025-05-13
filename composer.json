@@ -1,5 +1,5 @@
 {
-    "name": "popcorn/database",
+    "name": "serg9191/database",
     "autoload": {
         "psr-4": {
             "Serg\\Database\\": "src/"
